@@ -1,3 +1,2 @@
-Aula de React com a professora Simara , consumindo os dados de um js e trabalhando
-nos components.
-Não obtive a perfeição apenas o desejo de continuar a seguir em frente.
+Aula de React com a professora Simara do projeto Reprograma, consegui consumir os dados de um js e trabalhar nos components.
+Em tempo: Não obtive a perfeição apenas o desejo de continuar a seguir em frente.
